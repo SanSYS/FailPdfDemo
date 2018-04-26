@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea/.idea.FailPdfDemo
+/.vs
+/FailPdfDemo/bin/Debug/net471
+/FailPdfDemo/obj
+/packages
+/SomeSite/bin
+/SomeSite/obj
+/SomeSite/Properties/PublishProfiles
